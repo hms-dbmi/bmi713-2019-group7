@@ -1,11 +1,11 @@
 bmi713-2019-groupX
 
 Team Members
-•Quinn Ramirez
-•Ruojun Wang
-•Dany Thorpe
-•Danni Lin
+Quinn Ramirez
+Ruojun Wang
+Dany Thorpe
+Danni Lin
 
 GitHub for Open Science
-•idea 1
-•idea 2
+idea 1
+idea 2
